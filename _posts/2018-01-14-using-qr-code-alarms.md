@@ -10,6 +10,8 @@ I use [Sleep as Android](https://play.google.com/store/apps/details?id=com.urban
 
 If you want to make it more challenging, you could paste the QR code in an outdoor space. I am sure after you see the morning light, the chances of getting back to bed, are minimal.
 
+![Screenshot of Sleep as Android app]({{ site.baseurl }}/images/qr_code_alarm.png)
+
 Hope that hack helps you to seize your day. Please feel free to comment. Thanks !
 
 **PS:** If you tend to use the snooze option a lot, there is an setting to limit the amount of times you are allowed to snooze ⏰
